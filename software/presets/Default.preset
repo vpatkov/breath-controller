@@ -1,0 +1,5 @@
+midi_channel 1
+midi_message control_change
+control_number 2
+input_gain 1.0
+curve (0,0) (127,127)

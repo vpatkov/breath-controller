@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name breath-controller)(type KiCad)(uri ${KIPRJMOD}/breath-controller.pretty)(options "")(descr ""))
+)

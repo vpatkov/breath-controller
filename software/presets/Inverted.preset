@@ -1,0 +1,2 @@
+midi_message control_change
+curve (0,127) (127,0)
